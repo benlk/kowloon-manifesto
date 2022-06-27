@@ -8,8 +8,12 @@ This site is not affiliated with centrally-unplanned; it probably operates witho
 
 This site has a distinctly American bent because that's where the maintainer currently lives.
 
+## Contributing
+
 This site built and maintained by [Ben Keith](https://github.com/benlk/). To comment, [message him on Twitter](https://twitter.com/benlkeith/). To contribute, [make a pull request to this site via GitHub](https://github.com/benlk/kowloon-manifesto/).
 
-----
+This site costs about USD$15/year to run; if you want to give someone money for it, try [giving tumblr user centrally-unplanned a gift](https://centrally-unplanned.tumblr.com) and then [donating to Strong Towns](https://www.strongtowns.org/).
+
+## Colophon
 
 Typeset in [League Gothic](https://www.theleagueofmoveabletype.com/league-gothic) using [Fitty](https://github.com/rikschennink/fitty) and [FontFaceObserver](https://fontfaceobserver.com/), and your system's default fonts for everything else. Web design based on [the Slate theme for GitHub Pages](https://pages-themes.github.io/slate/).

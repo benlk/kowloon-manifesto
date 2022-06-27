@@ -146,7 +146,7 @@ body { box-sizing: border-box; color: var(--black); background: var(--grey-90); 
 
 h1, h2, h3, h4, h5, h6, .impact { font-family: 'League Gothic', Impact, Haettenschweiler, "Franklin Gothic Bold", "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", sans-serif; }
 
-h1, h2, h3, h4, h5, h6 { margin: 10px 0; font-weight: 700; color: #222222; }
+h1, h2, h3, h4, h5, h6 { margin: 10px 0; font-weight: 700; color: #222222; text-align: center; }
 
 h1 { font-size: 100px; font-weight: 700; }
 
@@ -227,7 +227,7 @@ Full-Width Styles
 *******************************************************************************/
 .outer { width: 100%; }
 
-.inner { position: relative; max-width: 542px; max-width: clamp(50vw, 542px, 95vw); padding: 0; margin: 0 auto; }
+.inner { position: relative; max-width: 542px; max-width: clamp(542px, 542px, 95vw); padding: 0; margin: 0 auto; }
 
 #header_wrap { background: var(--grey-10); background: -moz-linear-gradient(top, var(--grey-20), var(--grey-10)); background: -webkit-linear-gradient(top, var(--grey-20), var(--grey-10)); background: -ms-linear-gradient(top, var(--grey-20), var(--grey-10)); background: -o-linear-gradient(top, var(--grey-20), var(--grey-10)); background: linear-gradient(to top, var(--grey-20), var(--grey-10)); }
 

@@ -33,29 +33,24 @@
 <a href="https://andmaybegayer.tumblr.com/post/681507185091624960/there-should-be-at-least-three-ridiculous">https://andmaybegayer.tumblr.com/post/681507185091624960/there-should-be-at-least-three-ridiculous</a>
 </div>
 
-## Why The Kowloon Manifesto
-
-Dense urbanism is:
-
-- good for cities' finances[^5]
-- good for the environment
-- good for property values
-- good for the people who live and work there
-
-<p class="fit">Make your city dense today.</p>
-
-## Manifesto Principles
+## Corollaries of the Manifesto
 {: .fit}
 
-<div style="border: 0.5em solid var(--primary) outset;">
-<span class="fit">Build up, not out</span>
-<span class="fit">Don't need parking if car's not needed</span>
-<span class="fit">Don't need car if walking is easy</span>
-<span class="fit">Build more housing so it costs less</span>
-<span class="fit">Land values go up when you build dense</span>
-<span class="fit">Density benefits cities' finances</span>
-<span class="fit">Density is good</span>
-<span class="fit impact">The Kowloon Manifesto</span>
+<div style="line-height: 0.9;">
+<p class="fit">Make your city dense today.</p>
+<p class="fit">Build up, not out</p>
+<p class="fit">Remove zoning barriers</p>
+<p class="fit">Make cars unnecessary</p>
+<p class="fit">Don't need car if walking is easy</p>
+<p class="fit">Don't need parking without a car</p>
+<p class="fit">Build more housing so it costs less</p>
+<p class="fit">Land values go up when you build dense</p>
+<p class="fit">Density is good for the environment</p>
+<p class="fit">Density supports functional transit</p>
+<p class="fit">Better transit means less traffic</p>
+<p class="fit">Density makes strong cities</p>
+<p class="fit">Density is good</p>
+<p class="fit impact">The Kowloon Manifesto</p>
 </div>
 
 > The short version is: “fun way to say we need more dense urban housing”
