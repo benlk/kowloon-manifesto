@@ -60,13 +60,13 @@ Don't build parking garages
 : Parking garages are lazy solutions to the problem of cars. Build jobs and housing and stores colocated in the same building, so people don't need to own a car.[^8]
 
 There are alternatives to cars
-: Walking. Scooters. Bicycles. Unicycles. Electric bicycles.[^10] Mopeds. Taxi. Bus. Tram. Metro. Train. Aeroplane. If you build alternatives to cars, you induce demand for alternatives to cars, and people will use these alternatives.
+: Walking. Scooters. Bicycles. Unicycles. Electric bicycles.[^10] Mopeds. Taxi. Bus. Tram. Metro. Train. Aeroplane. If you build alternatives to cars, you induce demand for alternatives to cars, and people will use these alternatives.[^13]
 
 Just ban cars
-: Banning cars will make your main streets much nicer, and will cause no problems.[^9] People prefer to live in car-free cities, anyways.[^12] And once you've started considering banning cars, you can think about the impacts of cars on society.[
+: Banning cars will make your main streets much nicer, and will cause no problems.[^9] People prefer to live in car-free cities, anyways.[^12] And once you've started considering banning cars, you can think about the impacts of cars on society.[^15]
 
 Build more housing so it costs less
-: It's basic economics: When supply increases and demand remains the same, the price declines until demand rises to meet it.
+: It's basic economics: When supply increases and demand remains the same, the price declines until demand rises to meet it.[^14]
 
 Land values go up when you build dense
 : A half-acre lot with a four-bedroom house on it can be rented out as one dwelling unit. A half-acre lot with ten stories of four-bedroom houses on it can be rented out as ten dwelling units, in total earning more in rent than the one-bedroom house.
