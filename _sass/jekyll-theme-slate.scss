@@ -61,7 +61,6 @@ h1, h2, h3, h4, h5, h6, .impact {
 h1, h2, h3, h4, h5, h6 {
   margin: 10px 0;
   font-weight: 700;
-  color:#222222;
   text-align: center;
 }
 h1 {
@@ -136,12 +135,15 @@ footer a {
   color: var(--primary-on-dark);
   text-decoration: none;
 }
+footer h2 {
+  padding-top: 1em;
+  line-height: 1;
+}
 footer .menu {
-
   line-height: 1;
   list-style: none;
   font-size: 2em;
-  padding: 2em 0;
+  padding: 0 0 2em;
   margin: 0;
 }
 
@@ -241,12 +243,13 @@ ol {
 }
 
 dl dt {
+  margin-top: 0.5rem;
+  font-size: 1.5rem;
   font-weight: bold;
 }
 
 dl dd {
   padding-left: 20px;
-  font-style: italic;
 }
 
 dl p {
@@ -255,10 +258,11 @@ dl p {
 }
 
 hr {
-  height: 1px;
+  height: 3px;
   margin-bottom: 5px;
-  border: none;
-  background: url('../images/bg_hr.png') repeat-x center;
+  border-width: 3px 3px 0;
+  border-style: solid;
+  border-color: var(--black);
 }
 
 table {
