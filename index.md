@@ -45,7 +45,7 @@ Build up, not out
 : Density is measured in people per square mile. Spreading people out horizontally makes the density number go down. Keeping people confined to ground level means they have no personal space. The only way to space people out while keeping density is to space people out vertically. The best way to do that is by building taller buildings.
 
 Remove zoning barriers to density
-: The major obstacle to dense housing is that it's illegal. Dense walkable urban development like Kowloon Walled City is illegal to build in many major American cities. Let's make it legal.
+: The major obstacle to dense housing is that it's illegal. This kind of smart, walkable, mixed-use urbanism is illegal to build in most American cities.[^18] Let's make it legal.
 
 Colocate transit and housing
 : Don't surround your transit stations with unwalkable moats of parking lots. Build housing and jobs right next to the transit stations.[^7] Make it easy for everyone to walk to work.
@@ -119,3 +119,4 @@ Call your representative. Have your bird deliver a tweet. Hire a singing telegra
 [^15]: [What I Mean When I Say 'Ban Cars'](https://web.archive.org/web/20220629204153/https://jalopnik.com/what-i-mean-when-i-say-ban-cars-1849122955), Doug Gordon, Jalopnik, 29 June 2022
 [^16]: Public transit consultant Jarrett Walker's blog "Human Transit" summarizes the geometric problems of cars in cities in [Singapore: No More Cars](https://humantransit.org/2017/10/singapore-no-more-cars.html).
 [^17]: "Degrowth is an idea that critiques the global capitalist system which pursues growth at all costs, causing human exploitation and environmental destruction. The degrowth movement of activists and researchers advocates for societies that prioritize social and ecological well-being instead of corporate profits, over-production and excess consumption. This requires radical redistribution, reduction in the material size of the global economy, and a shift in common values towards care, solidarity and autonomy. Degrowth means transforming societies to ensure environmental justice and a good life for all within planetary boundaries." [degrowth.org](https://degrowth.info/en/degrowth).
+[^18]: [This Kind Of Smart, Walkable, Mixed-use Urbanism Is Illegal To Build In Most American Cities](https://knowyourmeme.com/memes/this-kind-of-smart-walkable-mixed-use-urbanism-is-illegal-to-build-in-most-american-cities), Know Your Meme, 2022.
