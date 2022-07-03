@@ -100,7 +100,6 @@ footer {
 a {
   text-decoration: underline;
   color: var(--primary);
-  text-shadow: none;
 
   transition: color 0.5s ease;
   transition: text-shadow 0.5s ease;
@@ -138,6 +137,9 @@ footer a {
 footer h2 {
   padding-top: 1em;
   line-height: 1;
+}
+footer a, footer h2 {
+  text-shadow: 0 0 10px rgba( 0, 0, 0, 1);
 }
 footer .menu {
   line-height: 1;
@@ -408,6 +410,8 @@ Full-Width Styles
   background:     -ms-linear-gradient(top, var(--black), var(--grey-20) );
   background:      -o-linear-gradient(top, var(--black), var(--grey-20) );
   background:      linear-gradient(to top, var(--black), var(--grey-20) );
+  background-image: url( '/assets/images/KWC_-_Night.jpeg' );
+  background-size: cover;
 }
 
 

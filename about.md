@@ -17,3 +17,5 @@ This site costs about USD$15/year to run; if you want to give someone money for 
 ## Colophon
 
 Typeset in [League Gothic](https://www.theleagueofmoveabletype.com/league-gothic) using [Fitty](https://github.com/rikschennink/fitty) and [FontFaceObserver](https://fontfaceobserver.com/), and your system's default fonts for everything else. Web design based on [the Slate theme for GitHub Pages](https://pages-themes.github.io/slate/).
+
+Footer image is [A street at the edge of the city at night](https://commons.wikimedia.org/wiki/Category:Historical_images_of_Kowloon_Walled_City#/media/File:KWC_-_Night.jpg) by Ian Lambot - Ian Lambot. City of Darkness - Life in Kowloon Walled City (ISBN 1-873200-13-7). 1993., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=56276673
