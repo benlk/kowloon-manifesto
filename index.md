@@ -23,7 +23,7 @@
 - Modern societies are afraid of population density
 - They have no good reason to be afraid
 - Kowloon Walled City was very dense, and that was good
-- America should do all it can to build denser
+- The United States should do all they can to densify
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/5DhR87-5uDUzzKaL-Zmzgg/681507185091624960" data-did="391479e9a54abeeceb172e9e9bec6d3ebae4e240" markdown=1>
 > There should be at least three ridiculous superdense high rise hypercities per continent.
@@ -34,6 +34,9 @@
 
 ## Corollaries of the Manifesto
 {: .fit}
+
+An agenda of radical growth
+: Environmental justice, democratization, self-sufficiency, local government, self-sufficiency, and openness can be accomplished while growing the economy and population. It exists in opposition to degrowth agendas.[^17]
 
 Make your city dense _today_
 : Not in fifty years. Not in 20 years. Not in 10 years. Remove obstacles to density as fast as possible. Buy up empty lots of land, upzone them, and get rich by selling condos or apartments.
@@ -54,7 +57,7 @@ Make cars unnecessary
 : Cars take up space. Car roads can't be used by pedestrians, wheelchair users, stroller-pushers, shopping carts, or by the most-efficient peoplemover known to humankind: the train. Cars take up space when they're moving and when they're stopped. Cars take up so much space.[^11] In areas with good transit, you do not need a car. And when you don't need a car, that space can be used for something else.
 
 Unnecessary cars means better land use
-: If you don't need a car, you don't need a spot to park a car. And that means you can use that space for things like restaurants, parks, schools, libraries, gyms, axe-throwing ranges, benches, bars, laundromats, public restrooms, bathhouses, combination bars and axe-throwing ranges, churches, churches sharing space with pool rooms, swimming pools, travel agencies, more housing &mdash; really anything else that isn't parking.
+: If you don't need a car, you don't need a spot to park a car. And that means you can use that space for things like restaurants, parks, schools, libraries, gyms, axe-throwing ranges, benches, bars, laundromats, public restrooms, bathhouses, combination bars and axe-throwing ranges, churches, churches sharing space with pool rooms, swimming pools, travel agencies, more housing &mdash; really anything else that isn't parking.[
 
 Don't build parking garages
 : Parking garages are lazy solutions to the problem of cars. Build jobs and housing and stores colocated in the same building, so people don't need to own a car.[^8]
@@ -114,3 +117,5 @@ Call your representative. Have your bird deliver a tweet. Hire a singing telegra
 [^13]: Public transit consultant Jarrett Walker's blog "Human Transit" covers the concept of induced demand with regards to transportation options in [Induced Demand: An Axiom of Biology](https://humantransit.org/2022/01/induced-demand-an-axiom-of-biology.html).
 [^14]: Alan Durning writes for the Sightline Institute in [Yes, you can build your way to affordable housing](https://www.sightline.org/2017/09/21/yes-you-can-build-your-way-to-affordable-housing/): "The question left after examining Houston is not whether you can build your way to affordable housing, but whether you can do it without sprawling. The answer, again, is yes, you can." The article goes on to talk about housing in Tokyo, where new supply is outpacing population growth, leading to decreased cost of housing. Chicago and Montreal are also densifying, and remain more affordable than peer cities. Singapore is an example of publicly-owned hosing. Germany is an example of national-scale privately-owned housing. They're building more housing, and so housing is affordable. For a counterexample, see San Francisco, which has built so little new housing that it's the most-expensive place to live in the US, where full-time employees of major employees are either homeless or commute hours to live someolace affordable.
 [^15]: [What I Mean When I Say 'Ban Cars'](https://web.archive.org/web/20220629204153/https://jalopnik.com/what-i-mean-when-i-say-ban-cars-1849122955), Doug Gordon, Jalopnik, 29 June 2022
+[^16]: Public transit consultant Jarrett Walker's blog "Human Transit" summarizes the geometric problems of cars in cities in [Singapore: No More Cars](https://humantransit.org/2017/10/singapore-no-more-cars.html).
+[^17]: "Degrowth is an idea that critiques the global capitalist system which pursues growth at all costs, causing human exploitation and environmental destruction. The degrowth movement of activists and researchers advocates for societies that prioritize social and ecological well-being instead of corporate profits, over-production and excess consumption. This requires radical redistribution, reduction in the material size of the global economy, and a shift in common values towards care, solidarity and autonomy. Degrowth means transforming societies to ensure environmental justice and a good life for all within planetary boundaries." [degrowth.org](https://degrowth.info/en/degrowth).
