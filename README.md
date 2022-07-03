@@ -7,9 +7,5 @@
 
 Currently in need of:
 
-- [ ] art
 - [ ] history of Kowloon
 - [ ] relative densities of major cites
-- [ ] what you can do
-- [ ] tweet to share this
-- [ ] domain name pointing
