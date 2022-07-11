@@ -22,8 +22,9 @@
 - We need more dense urban housing
 - Modern societies are afraid of population density
 - They have no good reason to be afraid
-- Kowloon Walled City was very dense, and that was good
-- The United States should do all they can to densify
+- Kowloon Walled City's density was good
+- Density should be pursued as a goal in itself
+- The United States should take all measures necessary to dramatically increase population density
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/5DhR87-5uDUzzKaL-Zmzgg/681507185091624960" data-did="391479e9a54abeeceb172e9e9bec6d3ebae4e240" markdown=1>
 > There should be at least three ridiculous superdense high rise hypercities per continent.
