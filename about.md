@@ -10,7 +10,7 @@ This site has a distinctly American bent because that's where the maintainer cur
 
 ## Contributing
 
-This site built and maintained by [Ben Keith](https://github.com/benlk/). To comment, [message him on Twitter](https://twitter.com/benlkeith/). To contribute, [make a pull request to this site via GitHub](https://github.com/benlk/kowloon-manifesto/).
+This site built and maintained by [Ben Keith](https://github.com/benlk/). To comment, [message him on the fediverse](https://urbanists.social/@benlk). To contribute, [make a pull request to this site via GitHub](https://github.com/benlk/kowloon-manifesto/).
 
 This site costs about USD$15/year to run; if you want to give someone money for it, try [giving tumblr user centrally-unplanned a gift](https://centrally-unplanned.tumblr.com) and then [donating to Strong Towns](https://www.strongtowns.org/).
 
