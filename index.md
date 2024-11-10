@@ -1,3 +1,10 @@
+
+> The short version is: “fun way to say we need more dense urban housing”
+> <cite><a href="https://web.archive.org/web/20220624035228/https://centrally-unplanned.tumblr.com/post/684016869875843072/hey-asking-if-you-could-please-clarify-what-you">tumblr user centrally-unplanned</a></cite>
+
+## The Kowloon Manifesto
+{: .fit}
+
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/sR1RuUw5fci51KptGhn4Fg/684016869875843072" data-did="d6886208e2ac7172bac8fd4135124587ed79e283" markdown=1>
 > The short version is: “fun way to say we need more dense urban housing”, but for the long version:
 > 
@@ -16,15 +23,15 @@
 <a href="https://centrally-unplanned.tumblr.com/post/684016869875843072/hey-asking-if-you-could-please-clarify-what-you">https://centrally-unplanned.tumblr.com/post/684016869875843072/hey-asking-if-you-could-please-clarify-what-you</a>
 </div><script async src="https://assets.tumblr.com/post.js"></script>
 
-## The Kowloon Manifesto
+## Some Bullet Points
 {: .fit}
 
 - We need more dense urban housing
 - Modern societies are afraid of population density
-- They have no good reason to be afraid
+- There is no good reason to be afraid of density
 - Kowloon Walled City's density was good
 - Density should be pursued as a goal in itself
-- The United States should take all measures necessary to dramatically increase population density
+- You should take all measures necessary to dramatically increase population density
 
 <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/5DhR87-5uDUzzKaL-Zmzgg/681507185091624960" data-did="391479e9a54abeeceb172e9e9bec6d3ebae4e240" markdown=1>
 > There should be at least three ridiculous superdense high rise hypercities per continent.
@@ -33,14 +40,14 @@
 <a href="https://andmaybegayer.tumblr.com/post/681507185091624960/there-should-be-at-least-three-ridiculous">https://andmaybegayer.tumblr.com/post/681507185091624960/there-should-be-at-least-three-ridiculous</a>
 </div>
 
-## Corollaries of the Manifesto
+## Relationship to other Movements
 {: .fit}
-
-An agenda of radical growth
-: Environmental justice, democratization, self-sufficiency, local government, self-sufficiency, and openness can be accomplished while growing the economy and population. It exists in opposition to degrowth agendas.[^17]
 
 Make your city dense _today_
 : Not in fifty years. Not in 20 years. Not in 10 years. Remove obstacles to density as fast as possible. Buy up empty lots of land, upzone them, and get rich by selling condos or apartments.
+
+Yes, in my back yard
+: Lower your air conditioning bills with this one easy trick: shade your house from the sun by adding a 10-story building in your backyard!
 
 Build up, not out
 : Density is measured in people per square mile. Spreading people out horizontally makes the density number go down. Keeping people confined to ground level means they have no personal space. The only way to space people out while keeping density is to space people out vertically. The best way to do that is by building taller buildings.
@@ -48,8 +55,8 @@ Build up, not out
 Remove zoning barriers to density
 : The major obstacle to dense housing is that it's illegal. This kind of smart, walkable, mixed-use urbanism is illegal to build in most American cities.[^18] Let's make it legal.
 
-Colocate transit and housing
-: Don't surround your transit stations with unwalkable moats of parking lots. Build housing and jobs right next to the transit stations.[^7] Make it easy for everyone to walk to work.
+Locate transit and housing together
+: Don't surround your transit stations with unwalkable moats of parking lots. Build housing and jobs right next to the transit stations, or on top of the transit stations.[^7] Make it easy for everyone to walk to work.
 
 Don't need a car if walking is easy
 : If the place you're going to is a five-minute walk away, you don't need a car. A handcart is enough to carry all but the heaviest of items. You can walk to the grocery store and push your shopping cart home. You can walk to the doctor, or roll your wheelchair, or ride your bike, or push your kid in a stroller. You can walk to pick your children up from school. You can walk to pick up your grandfather's meds from the pharmacist. _Your half-blind grandfather can walk to pick up his own meds._
@@ -57,29 +64,33 @@ Don't need a car if walking is easy
 Make cars unnecessary
 : Cars take up space. Car roads can't be used by pedestrians, wheelchair users, stroller-pushers, shopping carts, or by the most-efficient peoplemover known to humankind: the train. Cars take up space when they're moving and when they're stopped. Cars take up so much space.[^11] In areas with good transit, you do not need a car. And when you don't need a car, that space can be used for something else.
 
-Unnecessary cars means better land use
+Better land use through density
 : If you don't need a car, you don't need a spot to park a car. And that means you can use that space for things like restaurants, parks, schools, libraries, gyms, axe-throwing ranges, benches, bars, laundromats, public restrooms, bathhouses, combination bars and axe-throwing ranges, churches, churches sharing space with pool rooms, swimming pools, travel agencies, more housing &mdash; really anything else that isn't parking.[
 
-Don't build parking garages
+Parking garages are bad
 : Parking garages are lazy solutions to the problem of cars. Build jobs and housing and stores colocated in the same building, so people don't need to own a car.[^8]
 
-There are alternatives to cars
+There are so many good alternatives to cars
 : Walking. Scooters. Bicycles. Unicycles. Electric bicycles.[^10] Mopeds. Taxi. Bus. Tram. Metro. Train. Aeroplane. If you build alternatives to cars, you induce demand for alternatives to cars, and people will use these alternatives.[^13]
 
 Just ban cars
-: Banning cars will make your main streets much nicer, and will cause no problems.[^9] People prefer to live in car-free cities, anyways.[^12] And once you've started considering banning cars, you can think about the impacts of cars on society.[^15]
+: Banning cars will make your urban area's streets much nicer, and will cause no problems.[^9] People prefer to live in car-free cities, anyways.[^12] Once you've started considering banning cars, you can think about the impacts of cars on society: particle pollution, smog, crashes, drunk driving, etc.[^15]
 
 Build more housing so it costs less
 : It's basic economics: When supply increases and demand remains the same, the price declines until demand rises to meet it.[^14]
 
+The housing theory of everything
+: Housing shortages drive inequality, climate change, low productivity growth, obesity, and falling fertility rates. By building more housing, we fix all of that.[^19] The primary obstacle to building more housing is legal prohibitions on density.
+
 Land values go up when you build dense
-: A half-acre lot with a four-bedroom house on it can be rented out as one dwelling unit. A half-acre lot with ten stories of four-bedroom houses on it can be rented out as ten dwelling units, in total earning more in rent than the one-bedroom house.
+: A half-acre lot with a four-bedroom house on it can be rented out as one dwelling unit. A half-acre lot with ten stories of four-bedroom houses on it can be rented out as ten dwelling units, in total earning more in rent than the one-bedroom house. That means more property tax revenue for local governments, while lowering the tax burden on individual residents.[^5]
 
 Density is good for the environment
 : Transit is more environmentally friendly than single-person cars, yeah. But you know what's also environmentally friendly? Sharing a wall with your neighbors. It's one more surface that heat can't leak across. One more exterior wall you don't have to heat in the winter. One more exterior wall you don't have to cool in the summer.
+: But the goal of the Kowloon Manifesto is not to be environmentally friendly; environmental justice is a benefit of building dense housing.
 
 Density supports functional transit
-: The easiest way to pay for transit is through fares charged by riders. The more riders per route-mile, the more fare revenue you get. Don't remove a low-ridership transit line. Upzone around it so that the number of riders will increase.
+: The easiest way to pay for transit is through fares charged by riders. The more riders per route-mile, the more fare revenue you get. Don't remove a low-ridership transit line. Upzone around it so that the number of riders will increase. Build giant towers of housing and shops on top of your transit stations. Build monorail stations [in the middle of apartment towers](https://en.wikipedia.org/wiki/Liziba_station). 
 
 Better transit means less traffic
 : Fewer people driving cars means fewer cars in traffic. The Netherlands has the best public transit and is also the best place to drive a car.If you like driving your car, you'll like living in a place with less competition for the road.[^6]
@@ -87,15 +98,9 @@ Better transit means less traffic
 Density makes strong cities
 : More density means more tax revenue per square mile. Concentrating the population in fewer square miles means fewer linear miles of infrastructure like water and sewer and roads. Density lowers upkeep costs, while increasing money available to do upkeep.[^5]
 
-<p class="fit impact">Density is good</p>
-<p class="fit impact">The Kowloon Manifesto</p>
-
-> The short version is: “fun way to say we need more dense urban housing”
-> <cite><a href="https://web.archive.org/web/20220624035228/https://centrally-unplanned.tumblr.com/post/684016869875843072/hey-asking-if-you-could-please-clarify-what-you">tumblr user centrally-unplanned</a></cite>
-
 ## Tell Your Representatives
 
-Call your representative. Have your bird deliver a tweet. Hire a singing telegraph. Employ your postal courier. Placard your representative's office. Confront your representative, and say unto them:
+Call your representatives in government. Have your bird deliver a tweet. Hire a singing telegraph. Employ your postal courier. Placard your representative's office. Confront your representative, and say unto them:
 
 <p class="fit">"Replace parking lots with housing!"</p>
 
@@ -121,3 +126,4 @@ Call your representative. Have your bird deliver a tweet. Hire a singing telegra
 [^16]: Public transit consultant Jarrett Walker's blog "Human Transit" summarizes the geometric problems of cars in cities in [Singapore: No More Cars](https://humantransit.org/2017/10/singapore-no-more-cars.html).
 [^17]: "Degrowth is an idea that critiques the global capitalist system which pursues growth at all costs, causing human exploitation and environmental destruction. The degrowth movement of activists and researchers advocates for societies that prioritize social and ecological well-being instead of corporate profits, over-production and excess consumption. This requires radical redistribution, reduction in the material size of the global economy, and a shift in common values towards care, solidarity and autonomy. Degrowth means transforming societies to ensure environmental justice and a good life for all within planetary boundaries." [degrowth.org](https://degrowth.info/en/degrowth).
 [^18]: [This Kind Of Smart, Walkable, Mixed-use Urbanism Is Illegal To Build In Most American Cities](https://knowyourmeme.com/memes/this-kind-of-smart-walkable-mixed-use-urbanism-is-illegal-to-build-in-most-american-cities), Know Your Meme, 2022.
+[^19]: [The housing theory of everything](https://worksinprogress.co/issue/the-housing-theory-of-everything/), by John Myers, Sam Bowman & Ben Southwood in <i>Works in Progress</i>, 14 September 2021.
